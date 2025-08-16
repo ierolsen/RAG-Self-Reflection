@@ -6,6 +6,8 @@ This project implements Retrieval-Augmented Generation (RAG) enhanced with a sel
   <img src="./assets/workflow.png" alt="RAG Self-Reflection Workflow" width="800">
 </p>
 
+source: [langgraph Adaptive RAG](https://github.com/langchain-ai/langgraph/blob/main/examples/rag/langgraph_adaptive_rag.ipynb)
+
 ---
 
 
